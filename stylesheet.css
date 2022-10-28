@@ -1,0 +1,33 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+p {
+	color: blue;
+	align: center;
+        font-size: 25px;
+}
+
+nav {
+	padding: 20px;
+	border-style: solid;
+	border-width: small;
+	border-color: #00000000 #00000000 black #00000000;
+	text-align: center
+}
+
+h1 {
+	font-family: "Helvetica", sans-serif
+}
+
+.main_div {
+	text-align: center;
+	/* padding: 350px; */
+        margin: auto;
+        width: 300px;
+        align: center;
+}
+
+body {
+    background-color: #ffbfbdb0;
+}
